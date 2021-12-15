@@ -19,8 +19,8 @@ class Button extends React.Component{
     render(){
         return (
             <div>
-                <button onClick={this.addCount}> boop </button>
-                <p> booped {this.state.count} times </p> 
+                <button onClick={this.addCount} class="btn btn-primary"> BOOP </button>
+                <p> Booped {this.state.count} times! </p> 
             </div>
         )
     }

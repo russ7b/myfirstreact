@@ -1,5 +1,5 @@
 const Message = () =>{
-    return <p> tom </p>
+    return <p> edit App.js and save to reload </p>
 }
 
 export default Message
